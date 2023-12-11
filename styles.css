@@ -1,0 +1,27 @@
+/* Agregar estilos adicionales según sea necesario */
+body {
+  background-color: #343a40; /* Color de fondo oscuro */
+  color: #ffffff; /* Color de texto claro */
+}
+
+header {
+  background-color: #292b2c; /* Color de fondo oscuro para el encabezado */
+  padding: 20px 0; /* Añadir relleno al encabezado */
+}
+
+header h1 span {
+  color: #ffffff; /* Color de texto claro para el span dentro del encabezado h1 */
+}
+
+main {
+  margin-top: 20px; /* Añadir margen superior al contenido principal */
+}
+
+footer {
+  background-color: #292b2c; /* Color de fondo oscuro para el pie de página */
+  color: #ffffff; /* Color de texto claro para el pie de página */
+  padding: 10px 0; /* Añadir relleno al pie de página */
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
